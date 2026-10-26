@@ -1,0 +1,31 @@
+[NORMAL]
+availability=AVAILABLE score=86 scoring=score-v2 events=events-v1
+distanceKm=7.901 validDurationSec=569
+quality total=5605 valid=5605 flags={}
+eventCounts={HARSH_ACCELERATION=1, HARSH_BRAKING=2}
+  HARSH_ACCELERATION start=+140923ms dur=4722ms peak=4.01
+  HARSH_BRAKING start=+266955ms dur=2635ms peak=-4.40
+  HARSH_BRAKING start=+490017ms dur=2591ms peak=-4.62
+[HARSH]
+availability=AVAILABLE score=47 scoring=score-v2 events=events-v1
+distanceKm=7.900 validDurationSec=546
+quality total=5378 valid=5378 flags={}
+eventCounts={HARSH_ACCELERATION=6, HARSH_BRAKING=6}
+  HARSH_ACCELERATION start=+3665ms dur=2875ms peak=4.45
+  HARSH_BRAKING start=+54513ms dur=2116ms peak=-5.72
+  HARSH_ACCELERATION start=+63046ms dur=3806ms peak=4.03
+  HARSH_BRAKING start=+123470ms dur=2939ms peak=-5.19
+  HARSH_ACCELERATION start=+132925ms dur=3945ms peak=4.86
+  HARSH_BRAKING start=+257448ms dur=2023ms peak=-6.17
+  HARSH_ACCELERATION start=+265912ms dur=3581ms peak=4.28
+  HARSH_BRAKING start=+320317ms dur=2880ms peak=-5.25
+  HARSH_ACCELERATION start=+329667ms dur=5094ms peak=4.17
+  HARSH_BRAKING start=+411122ms dur=4217ms peak=-4.89
+  HARSH_BRAKING start=+470514ms dur=2215ms peak=-6.08
+  HARSH_ACCELERATION start=+479048ms dur=3364ms peak=4.65
+[IMPROVED]
+availability=AVAILABLE score=95 scoring=score-v2 events=events-v1
+distanceKm=7.900 validDurationSec=577
+quality total=5693 valid=5693 flags={}
+eventCounts={HARSH_ACCELERATION=0, HARSH_BRAKING=1}
+  HARSH_BRAKING start=+270847ms dur=2749ms peak=-4.01
