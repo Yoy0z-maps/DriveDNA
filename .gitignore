@@ -1,0 +1,12 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.kotlin/
+
+# 기획·검증 문서는 저장소에서 제외 (로컬에만 보관)
+/0[0-7]_*.md
+/docs/
