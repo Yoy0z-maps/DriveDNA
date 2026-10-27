@@ -31,9 +31,9 @@
 
 ## 실행 방법
 ### 1. APK 설치
-릴리스 APK는 저장소의 [`apk/`](apk/) 폴더에 있습니다.
+릴리스 APK: [`apk/Yoy0z-maps_DriveDNA_release.apk`](apk/Yoy0z-maps_DriveDNA_release.apk) (서명된 release 빌드, v0.5.0)
 ```bash
-adb install -r apk/<APK 파일명>.apk
+adb install -r apk/Yoy0z-maps_DriveDNA_release.apk
 ```
 ### 2. 테스트 환경
 | 항목 | 값 |
